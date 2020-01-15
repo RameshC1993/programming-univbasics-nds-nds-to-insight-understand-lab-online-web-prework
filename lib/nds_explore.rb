@@ -12,5 +12,5 @@ end
 
 def print_first_directors_movie_titles
   i = 0 
-  while i < 
+  while i < directors_database[0]
 end
